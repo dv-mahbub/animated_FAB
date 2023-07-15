@@ -2,7 +2,7 @@
 ## Animated_FAB
 A flutter package contains an animated floating action button.
 
-## Screenshots
+## Demo
 ![ss gif](https://github.com/dv-mahbub/file/blob/main/animated_fab/animated_fab.gif?raw=true)
 
 
