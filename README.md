@@ -3,7 +3,7 @@
 A flutter package contains an animated floating action button.
 
 ## Demo
-![ss gif](https://github.com/dv-mahbub/file/blob/main/animated_fab/animated_fab.gif?raw=true)
+<img src="https://github.com/dv-mahbub/file/blob/main/animated_fab/animated_fab.gif?raw=true" width="250"/>
 
 
 ## How to
